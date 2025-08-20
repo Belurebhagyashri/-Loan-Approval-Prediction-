@@ -1,4 +1,3 @@
-# 🏦 Loan Approval Prediction
 # 💳 Loan Approval Prediction 🔮
 
 Smarter Banking with Machine Learning & Explainable AI (SHAP)
